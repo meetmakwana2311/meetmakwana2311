@@ -5,7 +5,7 @@
   c. operating system
   d. netwroking
 - 🌱 I’m currently learning diploma in computer science engineering from SVKM's Shri Bhaghubhai Mafatlal Polytechnic and Engineering College (currently in 5th semester)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on various internships and more. Feel free to contact!
 - 📫 How to reach me www.linkedin.com/in/meetmakwana2329
 
 
