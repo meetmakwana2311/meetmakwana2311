@@ -8,7 +8,7 @@ Whether it's building a cool website, automating boring tasks, or experimenting 
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 - **Languages:** Python, C, C++, Java, JavaScript, HTML, CSS, SQL, PHP  
 - **Tools & Frameworks:** ReactJS, Node.js, Django, Firebase, Bootstrap, ADO.Net  
@@ -17,7 +17,7 @@ Whether it's building a cool website, automating boring tasks, or experimenting 
 
 ---
 
-## 🌟 Fun Facts About Me
+##  Fun Facts About Me
 
 - I love building things that make learning fun (games, tools, interactive dashboards)
 - I'm always looking for new tech to explore—currently diving into cybersecurity and cloud platforms
@@ -25,13 +25,13 @@ Whether it's building a cool website, automating boring tasks, or experimenting 
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
-- 📧 Email: [meetmak231@gmail.com](mailto:meetmak231@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/meetmakwana2311](https://linkedin.com/in/meetmakwana2311)  
-- 💻 GitHub: [github.com/meetmakwana2311](https://github.com/meetmakwana2311)
+-  Email: [meetmak231@gmail.com](mailto:meetmak231@gmail.com)  
+-  LinkedIn: [linkedin.com/in/meetmakwana2311](https://linkedin.com/in/meetmakwana2311)  
+-  GitHub: [github.com/meetmakwana2311](https://github.com/meetmakwana2311)
 
 ---
 
-> 🌱 *“I’m not just learning to code—I’m learning to build a future I believe in.”*  
+
 > Let’s connect, collaborate, and create something amazing together!
