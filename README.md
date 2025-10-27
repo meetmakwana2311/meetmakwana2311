@@ -1,10 +1,30 @@
-# 👋 Hey there! I'm Meet Makwana
+<!-- Banner (optional) — You can create & upload a banner named "banner.png" in your repo -->
+<p align="center">
+  <!-- <img src="banner.png" alt="Meet Makwana Banner"/> -->
+</p>
 
-🎓 Diploma in Computer Engineering | 💻 Future Software Engineer | 🛡️ Cybersecurity Enthusiast | 🐍 Python Fan
+<h1 align="center">Meet Makwana</h1>
+<h3 align="center">Software Developer • Designing the Future with AI, Data & Development</h3>
 
-I'm a passionate tech learner from Mumbai, India, currently completing my diploma in Computer Engineering. I love using technology to solve real-world problems and believe in the power of clean code and creative thinking.
+---
 
-Whether it's building a cool website, automating boring tasks, or experimenting with AI tools—I’m always up for a challenge!
+### 💻 About Me
+
+```bash
+$ whoami
+> A developer focused on building intelligent, scalable systems.
+
+$ skills
+> AI & Data Science, Software Development, Backend, Web Tech
+
+$ passion
+> Turning ideas into functional, impactful solutions.
+
+$ mission
+> Build. Learn. Evolve.
+
+
+I’m currently pursuing B.Tech in AI & Data Science and developing systems that combine software, data, and real-world impact. My work includes AI tools, automation, web development, and data-driven solutions.
 
 ---
 
@@ -36,28 +56,4 @@ Whether it's building a cool website, automating boring tasks, or experimenting 
 
 > Let’s connect, collaborate, and create something amazing together!
 
-<!-- Banner (optional) — You can create & upload a banner named "banner.png" in your repo -->
-<p align="center">
-  <!-- <img src="banner.png" alt="Meet Makwana Banner"/> -->
-</p>
-
-<h1 align="center">Meet Makwana</h1>
-<h3 align="center">Software Developer • Designing the Future with AI, Data & Development</h3>
-
----
-
-### 💻 About Me
-
-```bash
-$ whoami
-> A developer focused on building intelligent, scalable systems.
-
-$ skills
-> AI & Data Science, Software Development, Backend, Web Tech
-
-$ passion
-> Turning ideas into functional, impactful solutions.
-
-$ mission
-> Build. Learn. Evolve.
 
