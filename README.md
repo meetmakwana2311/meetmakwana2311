@@ -35,3 +35,29 @@ Whether it's building a cool website, automating boring tasks, or experimenting 
 
 
 > Let’s connect, collaborate, and create something amazing together!
+
+<!-- Banner (optional) — You can create & upload a banner named "banner.png" in your repo -->
+<p align="center">
+  <!-- <img src="banner.png" alt="Meet Makwana Banner"/> -->
+</p>
+
+<h1 align="center">Meet Makwana</h1>
+<h3 align="center">Software Developer • Designing the Future with AI, Data & Development</h3>
+
+---
+
+### 💻 About Me
+
+```bash
+$ whoami
+> A developer focused on building intelligent, scalable systems.
+
+$ skills
+> AI & Data Science, Software Development, Backend, Web Tech
+
+$ passion
+> Turning ideas into functional, impactful solutions.
+
+$ mission
+> Build. Learn. Evolve.
+
